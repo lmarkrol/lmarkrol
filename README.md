@@ -48,8 +48,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p>
-<img width="300em" height="300em" src="https://github-readme-stats.vercel.app/api?username=robertomarkus&show_icons=true&theme=nightowl" alt="biro's stats"/>&nbsp;
-<img width="300em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomarkus&layout=compact&theme=nightowl&langs_count=12" alt="biro's stats"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api?username=robertomarkus&show_icons=true&theme=nightowl" alt="biro's stats"/>&nbsp;
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomarkus&layout=compact&theme=nightowl&langs_count=12" alt="biro's stats"/>
 </p>
 
 <!-- [![Top Langs]()](https://github.com/robertomarkus/github-readme-stats) -->
