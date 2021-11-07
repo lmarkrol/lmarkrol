@@ -8,15 +8,15 @@ You can click the Preview link to take a look at your changes.
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> </p> -->
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-- 👀  I’m interested in Software and Hardware Development,<br>&emsp;&nbsp;&nbsp;specifically in IoT Environment
+- 🧐  I’m interested in Software and Hardware Development,<br>&emsp;&nbsp;&nbsp;specifically in IoT Environment
 
-- 🌱  Currently learning **Dart, Flutter, Golang, Python and C++**
+- 🤓  Currently learning **Dart, Flutter, Golang, Python and C++**
 
-- 💞️  Looking to collaborate on any developer located in **SG, ID, AUS**
+- 🤝  Looking to collaborate on any developer located in **🇸🇬, 🇮🇩, 🇦🇺**
 
-- 🚀  Reach me by  📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>  
+- 🤙  Reach me by  📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>  
 
-- ⚡  Fun fact **I ❤️️ 🥑**
+- ✨  Fun fact **I ❤️️ 🥑**
 
 <br>
 
