@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🚀  Reach me by  📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>  
 
-- ⚡  Fun fact **I ❤️️ ☕**
+- ⚡  Fun fact **I ❤️️ 🥑**
 
 <br>
 
