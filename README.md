@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> </p> -->
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-- 👀  I’m interested in Software and Hardware Development, specifically in<br>    IoT Environment
+- 👀  I’m interested in Software and Hardware Development, specifically in<br>&emsp;IoT Environment
 
 - 🌱  I’m currently learning **Dart, Flutter, Golang, Python and C++**
 
