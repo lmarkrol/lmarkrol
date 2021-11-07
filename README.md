@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 
 - 👀  I’m interested in Software and Hardware Development, specifically in<br>&emsp;&nbsp;&nbsp;IoT Environment
 
-- 🌱  I’m currently learning **Dart, Flutter, Golang, Python and C++**
+- 🌱  Currently learning **Dart, Flutter, Golang, Python and C++**
 
-- 💞️  I’m looking to collaborate on any developer located in **SG, ID, AUS**
+- 💞️  Looking to collaborate on any developer located in **SG, ID, AUS**
 
 - 🚀  Reach me by  📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>  
 
-- ⚡ Fun fact **I ❤️️ ☕**
+- ⚡  Fun fact **I ❤️️ ☕**
 
 <br>
 
