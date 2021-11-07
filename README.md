@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝  Looking to collaborate on any developer located in **🇸🇬, 🇮🇩, 🇦🇺**
 
-- 👨‍🎨  Beside programming I also do great stuff like 2D&3D Graphic and Video editing
+- 👨‍🎨  Beside programming I also do great stuff like 2D&3D Graphic<br>&emsp;&nbsp;&nbsp; and Video editing
 
 - 🤙  Reach me by  📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>  
 
