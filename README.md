@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💞️  I’m looking to collaborate on any developer located in **SG, ID, AUS**
 
-- 🚀  Reach me by  [📫]<a href="mailto:markusrobertoo@gmail.com">E-mail</a>  
+- 🚀  Reach me by  📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>  
 
 - ⚡ Fun fact **I ❤️️ ☕**
 
@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 ##
 
 <p align="center" style="background:blue">
-  <a href="https://instagram.com/robertomarkus" target="_blank">
+  <a href="https://instagram.com/markroberts.on" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Mark Robertson-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <!-- <a href="https://linkedin.com/in/" target="_blank">
