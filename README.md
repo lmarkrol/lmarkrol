@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
@@ -55,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 <img width="465em" src="https://github-readme-stats.vercel.app/api?username=markusrobertoo&show_icons=true&theme=nightowl" alt="biro's stats"/>&nbsp;
 <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusrobertoo&layout=compact&theme=nightowl&hide=css,html,tsql,scss,c,less&langs_count=10" alt="biro's stats"/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+
 </p>
 
 <!-- [![Top Langs]()](https://github.com/robertomarkus/github-readme-stats) -->
