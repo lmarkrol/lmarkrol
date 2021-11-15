@@ -52,8 +52,8 @@ You can click the Preview link to take a look at your changes.
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)&nbsp;
 <p>
 <img width="465em" src="https://github-readme-stats.vercel.app/api?username=markusrobertoo&show_icons=true&theme=nightowl" alt="biro's stats"/>&nbsp;
 <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusrobertoo&layout=compact&theme=nightowl&hide=css,html,tsql,scss,c,less&langs_count=10" alt="biro's stats"/>
