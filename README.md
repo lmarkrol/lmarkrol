@@ -3,21 +3,20 @@ robertomarkus/robertomarkus is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <h1 align="left">Hi there, <img src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrohi.gif" width="30px"> Welcome to my Github!</h1>
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
 
-- 🧐  I’m interested in Software and Hardware Development,<br>&emsp;&nbsp;&nbsp;specifically in **IoT** Environment
+- 🧐 I’m interested in Software and Hardware Development,<br>&emsp;&nbsp;&nbsp;specifically in **IoT** Environment
 
-- 🤓  Currently learning **Dart, Flutter, Golang, Python and C++**
+- 🤓 Currently learning **Dart, Flutter, Golang, Python and C++**
 
-- 🤝  Looking to collaborate on any developer located in **🇸🇬, 🇮🇩, 🇦🇺**
+- 🤝 Looking to collaborate on any developer located in **🇸🇬, 🇮🇩, 🇦🇺**
 
-- 👨‍🎨  Beside programming I also do great stuff like 2D&3D Graphic<br>&emsp;&nbsp;&nbsp; Design and Video Editing
+- 👨‍🎨 Beside programming I also do great stuff like 2D&3D Graphic<br>&emsp;&nbsp;&nbsp; Design and Video Editing
 
-- 🤙  Reach me by  📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>  
+- 🤙 Reach me by 📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>
 
-- ✨  Fun fact **I ❤️️ 🥑**
+- ✨ Fun fact **I ❤️️ 🥑**
 
 <br>
 
@@ -40,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)&nbsp;
@@ -49,8 +48,8 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 
-
 ## ⚙️ &nbsp;GitHub Analytics
+
 <br>
 
 <p>
@@ -60,7 +59,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!-- [![Top Langs]()](https://github.com/robertomarkus/github-readme-stats) -->
-
 
 ##
 
@@ -75,4 +73,3 @@ You can click the Preview link to take a look at your changes.
  <img align="center" src="https://img.shields.io/badge/-Mark Robertson-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p>
-
