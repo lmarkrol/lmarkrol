@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🧐 I’m interested in Software and Hardware Development,<br>&emsp;&nbsp;&nbsp;specifically in **IoT** Environment
 
-- 🤓 Currently learning **Dart, Flutter, Golang, Python, and C++**
+- 🤓 Currently learning **Dart, Flutter, and Python**
 
 - 🤝 Looking to collaborate on any developer located in **🇸🇬, 🇮🇩, 🇦🇺**
 
