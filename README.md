@@ -1,6 +1,6 @@
 <!---
 robertomarkus/robertomarkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
+You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="left">Hi there, <img src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrohi.gif" width="30px"> Welcome to my Github!</h1>
