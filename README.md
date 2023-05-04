@@ -3,7 +3,7 @@ robertomarkus/robertomarkus is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="left">Hi there, <img src="./emoji/wave.png" width="40" height="40"/> Welcome to my Github!</h1>
+<h1 align="left">**<! -- Hi there, <img src="./emoji/wave.png" width="40" height="40"/> Welcome to my Github! -->**</h1>
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
 
 - I’m interested in Software or Hardware **Research & Development** <img src="./emoji/love.png" width="30" height="30"/>
