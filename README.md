@@ -6,15 +6,15 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi there, <img src="https://drive.google.com/uc?export=view&id=1KKI7Mbodp97A4_IZWYrWIxxal17urJw7" width="40px"> Welcome to my Github!</h1>
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
 
-- I’m interested in Software and Hardware Development,especifically in **IoT** Environment <img src="https://drive.google.com/uc?export=view&id=1EFvSdTXqYPl1WQ3CCa_HZweIecVPKQnb" width="30px"> 
+- I’m interested in Software and Hardware Development,<br>especifically in **IoT** Environment <img src="https://drive.google.com/uc?export=view&id=1EFvSdTXqYPl1WQ3CCa_HZweIecVPKQnb" width="30px"> 
 
 - Currently learning **Dart, Flutter, Javascript and Python** <img src="https://drive.google.com/uc?export=view&id=1ro8T96q38-7ZrsTc1KZcacmAsS3n-FCk" width="30px">
 
 - Looking to collaborate on any developer located in **🇸🇬, 🇮🇩, 🇦🇺** <img src="https://drive.google.com/uc?export=view&id=1Ybfn76eunWGqjPjL-55a-xaJVN_QKY2M" width="30px">
 
-- Beside programming I also do great stuff like 2D&3D Graphic Design and Video Editing <img src="https://drive.google.com/uc?export=view&id=1pgil5L3LFxDehW0ocp5yLvA1AK-E-X8x" width="30px">
+- Beside programming I also do great stuff like 2D&3D Graphic Design<br>and Video Editing <img src="https://drive.google.com/uc?export=view&id=1pgil5L3LFxDehW0ocp5yLvA1AK-E-X8x" width="30px">
 
-- Reach me by 📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a> <img src="https://drive.google.com/uc?export=view&id=1YVdx61FW7KkX1_PXTjMYvtDVPAP2JVt0" width="30px">
+- Reach me by visiting my <a href="https://markus-roberto.web.app/">[Profile]</a> <img src="https://drive.google.com/uc?export=view&id=1YVdx61FW7KkX1_PXTjMYvtDVPAP2JVt0" width="30px">
 
 - Fun fact **I❤️️🥑** & a Father of Hedgie 🦔 <img src="https://drive.google.com/uc?export=view&id=1w5JqVms8rM8ZUQKGdYa5fhgP_3FRa-Q3" width="30px">
 
