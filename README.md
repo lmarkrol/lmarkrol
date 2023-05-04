@@ -24,7 +24,39 @@ You can click the Preview link to take a look at your changes.
 ## 🛠 &nbsp;Tech Stack
 
 <p align="center">
-<img src="./logos/html.png" width="40" height="40"/>
+  <img src="./logos/html.png" width="40" height="40"/>
+  <img src="./logos/css.png" width="40" height="40"/>
+  <img src="./logos/js.png" width="40" height="40"/>  
+  <img src="./logos/dart.png" width="40" height="40"/>  
+  <img src="./logos/flutter.png" width="40" height="40"/>
+  <img src="./logos/golang.png" width="40" height="40"/>
+  <img src="./logos/nodejs.png" width="40" height="40"/>
+  <img src="./logos/node-red.png" width="40" height="40"/>
+  <img src="./logos/firebase.png" width="40" height="40"/>
+  <img src="./logos/c++.png" width="40" height="40"/>
+  <img src="./logos/python.png" width="40" height="40"/>
+  <img src="./logos/arduino.png" width="40" height="40"/>
+  <img src="./logos/espressif.png" width="40" height="40"/>
+  <img src="./logos/raspberrypi.png" width="40" height="40"/>
+  <img src="./logos/tensorflow.png" width="40" height="40"/>
+  <img src="./logos/git.png" width="40" height="40"/>
+  <img src="./logos/github.png" width="40" height="40"/>
+  <img src="./logos/vscode.png" width="40" height="40"/>
+  <img src="./logos/chatgpt.png" width="40" height="40"/>
+  <img src="./logos/figma.png" width="40" height="40"/>
+  <img src="./logos/au.png" width="40" height="40"/>
+  <img src="./logos/ae.png" width="40" height="40"/>
+  <img src="./logos/pr.png" width="40" height="40"/>
+  <img src="./logos/ai.png" width="40" height="40"/>
+  <img src="./logos/ps.png" width="40" height="40"/>
+  <img src="./logos/lr.png" width="40" height="40"/>
+  <img src="./logos/blender.png" width="40" height="40"/>
+  <img src="./logos/chrome.png" width="40" height="40"/>
+  <img src="./logos/windows.png" width="40" height="40"/>
+  <img src="./logos/apple.png" width="40" height="40"/>
+  <img src="./logos/linux.png" width="40" height="40"/>
+  <img src="./logos/ubuntu.png" width="40" height="40"/>
+  <img src="./logos/backtrack.png" width="40" height="40"/>
 </p>
 
 <!--
