@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - Reach me by visiting my <a href="https://markus-roberto.web.app/">[Profile]</a> <img src="./emoji/winking.png" width="30" height="30"/>
 
-- Fun fact **I❤️️🥑** & a Father of Hedgie 🦔 <img src="./emoji/nicetoseeyou.png" width="30" height="30"/>
+- Fun fact **I ❤️🥑** & a Father of Hedgie 🦔 <img src="./emoji/nicetoseeyou.png" width="30" height="30"/>
 
 
 <br>
