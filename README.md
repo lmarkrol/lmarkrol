@@ -6,13 +6,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi there, <img src="https://drive.google.com/uc?export=view&id=1KKI7Mbodp97A4_IZWYrWIxxal17urJw7" width="30px"> Welcome to my Github!</h1>
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
 
-- <img src="1EFvSdTXqYPl1WQ3CCa_HZweIecVPKQnb" width="30px"> I’m interested in Software and Hardware Development,<br>&emsp;&nbsp;&nbsp;specifically in **IoT** Environment
+- <img src="https://drive.google.com/uc?export=view&id=1EFvSdTXqYPl1WQ3CCa_HZweIecVPKQnb" width="30px"> I’m interested in Software and Hardware Development,<br>&emsp;&nbsp;&nbsp;specifically in **IoT** Environment
 
-- 🤓 Currently learning **Dart, Flutter, Javascript and Python**
+- <img src="https://drive.google.com/uc?export=view&id=1ro8T96q38-7ZrsTc1KZcacmAsS3n-FCk" width="30px"> Currently learning **Dart, Flutter, Javascript and Python**
 
-- 🤝 Looking to collaborate on any developer located in **🇸🇬, 🇮🇩, 🇦🇺**
+- <img src="https://drive.google.com/uc?export=view&id=1pgil5L3LFxDehW0ocp5yLvA1AK-E-X8x" width="30px"> Looking to collaborate on any developer located in **🇸🇬, 🇮🇩, 🇦🇺**
 
-- 👨‍🎨 Beside programming I also do great stuff like 2D&3D Graphic<br>&emsp;&nbsp;&nbsp; Design and Video Editing
+- <img src="https://drive.google.com/uc?export=view&id=1pgil5L3LFxDehW0ocp5yLvA1AK-E-X8x" width="30px"> Beside programming I also do great stuff like 2D&3D Graphic<br>&emsp;&nbsp;&nbsp; Design and Video Editing
 
 - 🤙 Reach me by 📫 <a href="mailto:markusrobertoo@gmail.com">[E-mail]</a>
 
