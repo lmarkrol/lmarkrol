@@ -101,15 +101,8 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-<p align="center" style="background:blue">
-  <a href="https://instagram.com/markroberts.on" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Mark Robertson-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<!-- <a href="https://linkedin.com/in/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a> -->
-<a href="https://facebook.com/markusrobertoo" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Mark Robertson-05122A?style=flat&logo=facebook" alt="facebook"/>
-</a>
+<p align="center" style="font-size: 10px;">
+As a professional, I take great pride in showcasing my portfolio; however, there may be instances where I am unable to share certain projects due to confidentiality, intellectual property, client privacy, or security concerns. In such cases, non-disclosure or confidentiality agreements may restrict me from sharing specific information or materials publicly, and I may be unable to showcase projects that involve proprietary technology or sensitive data. <br><br>Nevertheless, I always prioritize respecting legal and ethical obligations when sharing any portfolio or project information.
 </p>
+
 <br>
