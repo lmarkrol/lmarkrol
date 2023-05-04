@@ -3,10 +3,10 @@ robertomarkus/robertomarkus is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="left">Hi there, <img src="https://drive.google.com/uc?export=view&id=1KKI7Mbodp97A4_IZWYrWIxxal17urJw7" width="30px"> Welcome to my Github!</h1>
+<h1 align="left">Hi there, <img src="https://drive.google.com/uc?export=view&id=1KKI7Mbodp97A4_IZWYrWIxxal17urJw7" width="40px"> Welcome to my Github!</h1>
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
 
-- I’m interested in Software and Hardware Development,especifically in **IoT** Environment <img src="https://drive.google.com/uc?export=view&id=1EFvSdTXqYPl1WQ3CCa_HZweIecVPKQnb" width="30px" margin-top="30px"> 
+- I’m interested in Software and Hardware Development,especifically in **IoT** Environment <img src="https://drive.google.com/uc?export=view&id=1EFvSdTXqYPl1WQ3CCa_HZweIecVPKQnb" width="30px" margin-top="30"> 
 
 - Currently learning **Dart, Flutter, Javascript and Python** <img src="https://drive.google.com/uc?export=view&id=1ro8T96q38-7ZrsTc1KZcacmAsS3n-FCk" width="30px">
 
