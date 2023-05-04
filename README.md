@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi there, <img src="./emoji/wave.png" width="40" height="40"/> Welcome to my Github!</h1>
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
 
-- I’m interested in Software and Hardware Development,<br>especifically in **IoT** Environment <img src="./emoji/love.png" width="30" height="30"/>
+- I’m interested in Software or Hardware **Research & Development** <img src="./emoji/love.png" width="30" height="30"/>
 
-- Currently learning **Dart, Flutter, Javascript and Python** <img src="./emoji/colaboration.png" width="30" height="30"/>
+- Currently learning **Flutter, Javascript and Python** <img src="./emoji/colaboration.png" width="30" height="30"/>
 
-- Looking to collaborate on any developer <img src="./emoji/monocle.png" width="30" height="30"/>
+- **Looking to collaborate** on any developer <img src="./emoji/monocle.png" width="30" height="30"/>
 
 - Beside programming I also do great stuff like 2D&3D Graphic Design<br>, Animation & Video Editing, Analytics and Cryptocurrency <img src="./emoji/welcome.png" width="30" height="30"/>
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Environment
 
 <p align="center">
   <img src="./logos/html.png" width="40" height="40"/>
@@ -51,8 +51,10 @@ You can click the Preview link to take a look at your changes.
   <img src="./logos/ps.png" width="40" height="40"/>
   <img src="./logos/lr.png" width="40" height="40"/>
   <img src="./logos/blender.png" width="40" height="40"/>
+  <img src="./logos/appscript.png" width="40" height="40"/>
   <img src="./logos/chrome.png" width="40" height="40"/>
   <img src="./logos/windows.png" width="40" height="40"/>
+  <img src="./logos/android.png" width="40" height="40"/>
   <img src="./logos/apple.png" width="40" height="40"/>
   <img src="./logos/linux.png" width="40" height="40"/>
   <img src="./logos/ubuntu.png" width="40" height="40"/>
