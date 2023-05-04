@@ -63,9 +63,9 @@ You can click the Preview link to take a look at your changes.
   <img src="./logos/windows.png" width="40" height="40"/>
   <img src="./logos/android.png" width="40" height="40"/>
   <img src="./logos/apple.png" width="40" height="40"/>
-  <img src="./logos/linux.png" width="40" height="40"/>
-  <img src="./logos/ubuntu.png" width="40" height="40"/>
+  <img src="./logos/linux.png" width="40" height="40"/>  
   <img src="./logos/backtrack.png" width="40" height="40"/>
+  <img src="./logos/ubuntu.png" width="40" height="40"/>
 </p>
 
 <!--
