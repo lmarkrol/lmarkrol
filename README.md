@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes
 
 - I’m interested in Software or Hardware **Research & Development** <img src="./emoji/love.png" width="30" height="30"/>
 
-- Currently learning **Flutter, Javascript and Python** <img src="./emoji/colaboration.png" width="30" height="30"/>
+- Currently learning **Dart, Javascript and Python** <img src="./emoji/colaboration.png" width="30" height="30"/>
 
 - **Looking to collaborate** on any developer <img src="./emoji/monocle.png" width="30" height="30"/>
 
