@@ -56,9 +56,10 @@ You can click the Preview link to take a look your changes....
   <img src="./logos/grafana.png" width="40" height="40"/>
   <img src="./logos/influxdb.png" width="40" height="40"/>
   <img src="./logos/openjs.png" width="40" height="40"/>
-  <img src="./logos/gdev.png" width="40" height="40"/>
+  <img src="./logos/gcp.png" width="40" height="40"/>
   <img src="./logos/gcloud.png" width="40" height="40"/>
   <img src="./logos/google.png" width="40" height="40"/>
+  <img src="./logos/gdev.png" width="40" height="40"/>
   <img src="./logos/appscript.png" width="40" height="40"/>
   <img src="./logos/chrome.png" width="40" height="40"/>
   <img src="./logos/windows.png" width="40" height="40"/>
